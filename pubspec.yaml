@@ -30,7 +30,8 @@ dependencies:
 
 
   #di
-  inject: ^0.2.1
+  inject:
+    path: ./inject.dart/package/inject
 
 
 
