@@ -30,8 +30,8 @@ dependencies:
 
 
   #di
-  inject:
-    path: ./inject.dart/package/inject
+  inject: ^0.2.1
+
 
 
   #utils
@@ -84,9 +84,7 @@ dev_dependencies:
     sdk: flutter
   build_runner: 1.7.4
   json_serializable: 3.2.5
-  inject_generator:
-    path: ./inject.dart/package/inject_generator
-
+ 
 
 flutter:
 
