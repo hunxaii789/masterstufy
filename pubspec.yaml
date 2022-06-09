@@ -79,7 +79,7 @@ dependencies:
   page_transition: ^1.1.5
 
   in_app_purchase: 0.3.4+1
-  flutter_svg: ^1.0.1
+  flutter_svg: ^0.13.0
 
 dev_dependencies:
   flutter_test:
